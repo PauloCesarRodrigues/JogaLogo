@@ -17,4 +17,4 @@ JogaLogo é um projeto desenvolvido durante a **Imersão Dev com Google Gemini**
 
 Você pode acessar o JogaLogo online através do seguinte link:
 
-[**JogaLogo - Vercel**](link)
+[**JogaLogo - Vercel**](https://jogalogo.vercel.app/)
