@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@400;700&display=swap');
 
 
-:root{
+:root {
     --fonte-principal: 'Bricolage Grotesque', sans-serif;
     --cor-clara: #fcf3e4;
     --cor-marrom: #65372a;
@@ -14,12 +14,14 @@
     text-decoration: none;
 }
 
-body{
+body {
     background-color: var(--cor-clara);
     text-decoration: none;
+     overflow-x: hidden;
+
 }
 
-.home{
+.home {
 
     display: flex;
     align-items: center;
@@ -27,13 +29,13 @@ body{
 }
 
 
-.header{
+.header {
     margin-top: 20px;
     display: flex;
     justify-content: space-evenly;
 }
 
-.header__links{
+.header__links {
     text-decoration: none;
     color: var(--cor-marrom);
     font-weight: 800;
@@ -50,13 +52,14 @@ body{
     text-align: center;
 }
 
-.container__titulo{
+.container__titulo {
+    margin-left: 3em;
     font-size: 65px;
     color: var(--cor-marrom);
     line-height: 1.3
 }
 
-.container__descricao{
+.container__descricao {
     margin-top: 3em;
     font-size: 16px;
     color: var(--cor-marrom);
@@ -65,23 +68,27 @@ body{
 
 .tracejado {
     margin-top: 1em;
-    height: 6px; /* Ajuste a altura do tracejado */
+    height: 6px;
+    /* Ajuste a altura do tracejado */
     background: linear-gradient(to right, transparent 50%, var(--laranja-claro) 50%);
-    background-size: 85px 100%; /* Ajuste o tamanho dos retângulos */
-  }
+    background-size: 85px 100%;
+    /* Ajuste o tamanho dos retângulos */
+}
 
-  .pesquisa {
+.pesquisa {
     margin-top: 10em;
     background-color: var(--cor-marrom);
     width: 100%;
-    min-height: 150px; /* Aumente a altura mínima */
+    min-height: 150px;
+    /* Aumente a altura mínima */
     display: flex;
     align-items: center;
-    justify-content: center; /* Centraliza o conteúdo verticalmente */
+    justify-content: center;
+    /* Centraliza o conteúdo verticalmente */
     text-align: center;
 }
-  
-.pesquisa__configurar{
+
+.pesquisa__configurar {
 
     margin-top: -12em;
     margin-bottom: -4em;
@@ -92,19 +99,19 @@ body{
     border-radius: 30px;
     position: relative;
 }
-  
-.configurar__legenda{
+
+.configurar__legenda {
     font-family: var(--fonte-principal);
     font-weight: 800;
     display: flex;
-    align-items:flex-start;
+    align-items: flex-start;
     margin: 2em 0 10px 20em;
 }
 
-.select__customizacao{
+.select__customizacao {
     position: relative;
     display: inline-block;
-    width: 200px; 
+    width: 200px;
 }
 
 select {
@@ -120,21 +127,21 @@ select {
     font-family: var(--fonte-principal);
     font-weight: 800;
     cursor: pointer;
-  }
-
-.flecha{
-        position: absolute;
-        top: 50%;
-        right: 10px;
-        transform: translateY(-50%);
-        font-size: 12px;
-        color: var(--cor-marrom);
-        pointer-events: none;
 }
 
-.botoes__pesquisar{
+.flecha {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    font-size: 12px;
+    color: var(--cor-marrom);
+    pointer-events: none;
+}
+
+.botoes__pesquisar {
     margin: 0 1em 0;
-    width: 560px; 
+    width: 560px;
     height: 40px;
     padding: 4px;
     border: none;
@@ -147,12 +154,12 @@ select {
 
 }
 
-.botoes__botao{
-    background-color: var(--cor-marrom); 
-    color: #f2e8cf; 
-    border: none; 
-    border-radius: 15px; 
-    padding: 11px 58px 11px 58px; 
+.botoes__botao {
+    background-color: var(--cor-marrom);
+    color: #f2e8cf;
+    border: none;
+    border-radius: 15px;
+    padding: 11px 58px 11px 58px;
     font-size: 20px;
     font-family: var(--fonte-principal);
     font-weight: 800;
@@ -160,7 +167,7 @@ select {
     cursor: pointer;
 }
 
-.mensagem-info{
+.mensagem-info {
     color: rgb(235, 106, 106);
     margin-top: 1em;
     font-weight: 800;
@@ -245,10 +252,6 @@ select {
 
 
 
-
-
-
-
 @media (max-width: 768px) {
     .pesquisa__configurar {
         width: 90%;
@@ -259,5 +262,22 @@ select {
         width: 100%;
         font-size: 14px;
     }
+}
+
+
+.box__titulo{
+    display: flex;
+
+}
+
+.carinhafeliz{
+    margin-left: 10em;
+    height: 61px;
+    width: 46px;
+}
+
+.resultados__plataformas{
+    font-weight: 700;
+    color: var(--cor-marrom);
 }
 
