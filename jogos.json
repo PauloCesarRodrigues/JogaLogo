@@ -1,0 +1,650 @@
+[
+    {
+      "nome": "The Witcher 3: Wild Hunt",
+      "descricao": "Um RPG de mundo aberto épico, onde você assume o papel de Geralt de Rivia, um caçador de monstros.",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "link": "https://www.witcher.com/"
+    },
+    {
+      "nome": "Elden Ring",
+      "descricao": "Um RPG de ação de mundo aberto desenvolvido pela FromSoftware, criadores da série Dark Souls.",
+      "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+      "link": "https://eldenring.bandainamcoent.com/"
+    },
+    {
+      "nome": "Cyberpunk 2077",
+      "descricao": "Um RPG de ação ambientado em um futuro distópico, onde você joga como V, um mercenário em busca de imortalidade.",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One", "Stadia"],
+      "link": "https://www.cyberpunk.net/"
+    },
+    {
+      "nome": "Hades",
+      "descricao": "Um roguelike onde você joga como Zagreus, filho de Hades, tentando escapar do submundo.",
+      "plataformas": ["PC", "Nintendo Switch"],
+      "link": "https://www.supergiantgames.com/games/hades/"
+    },
+    {
+      "nome": "Ghost of Tsushima",
+      "descricao": "Um jogo de ação e aventura em mundo aberto ambientado no Japão feudal, onde você joga como Jin Sakai.",
+      "plataformas": ["PlayStation 4", "PlayStation 5"],
+      "link": "https://www.suckerpunch.com/category/games/ghost-of-tsushima/"
+    },
+    {
+      "nome": "Red Dead Redemption 2",
+      "descricao": "Um jogo de ação e aventura de mundo aberto que segue Arthur Morgan e a gangue Van der Linde no Velho Oeste.",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One"],
+      "link": "https://www.rockstargames.com/reddeadredemption2/"
+    },
+    {
+      "nome": "Horizon Zero Dawn",
+      "descricao": "Um RPG de ação de mundo aberto onde você controla Aloy, uma caçadora em um mundo pós-apocalíptico dominado por máquinas.",
+      "plataformas": ["PC", "PlayStation 4"],
+      "link": "https://www.guerrilla-games.com/play/horizon"
+    },
+    {
+      "nome": "DOOM Eternal",
+      "descricao": "Um FPS frenético onde você controla o Doom Slayer lutando contra hordas de demônios.",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "Stadia"],
+      "link": "https://slayersclub.bethesda.net/en/game/doom-eternal"
+    },
+    {
+      "nome": "Assassin's Creed Valhalla",
+      "descricao": "Um RPG de ação onde você controla Eivor, um guerreiro viking em busca de conquistas na Inglaterra medieval.",
+      "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+      "link": "https://www.ubisoft.com/en-us/game/assassins-creed/valhalla"
+    },
+    {
+      "nome": "Super Mario Odyssey",
+      "descricao": "Um jogo de aventura 3D onde Mario viaja por diferentes reinos para salvar a Princesa Peach de Bowser.",
+      "plataformas": ["Nintendo Switch"],
+      "link": "https://www.nintendo.com/games/detail/super-mario-odyssey-switch/"
+    },
+    {
+      "nome": "Final Fantasy VII Remake",
+      "descricao": "Um RPG que reimagina o clássico Final Fantasy VII, seguindo Cloud Strife e sua luta contra a corporação Shinra.",
+      "plataformas": ["PlayStation 4", "PlayStation 5"],
+      "link": "https://ffvii-remake.square-enix-games.com/en-us"
+    },
+    {
+      "nome": "The Legend of Zelda: Breath of the Wild",
+      "descricao": "Um RPG de ação em mundo aberto onde você controla Link em sua missão para derrotar Ganon.",
+      "plataformas": ["Nintendo Switch"],
+      "link": "https://www.zelda.com/breath-of-the-wild/"
+    },
+    {
+      "nome": "Resident Evil Village",
+      "descricao": "Um jogo de terror e sobrevivência onde você controla Ethan Winters enfrentando monstros em um vilarejo remoto.",
+      "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+      "link": "https://www.residentevil.com/village/us/"
+    },
+    {
+      "nome": "Control",
+      "descricao": "Um jogo de ação e aventura onde você explora uma agência secreta e enfrenta fenômenos sobrenaturais.",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "link": "https://controlgame.com/"
+    },
+    {
+      "nome": "Overwatch",
+      "descricao": "Um FPS baseado em equipes, onde heróis com habilidades únicas competem em diversos modos de jogo.",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "link": "https://playoverwatch.com/"
+    },
+    {
+      "nome": "Fortnite",
+      "descricao": "Um jogo de batalha real onde 100 jogadores competem para ser o último sobrevivente em uma ilha.",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "Mobile"],
+      "link": "https://www.epicgames.com/fortnite/"
+    },
+    {
+      "nome": "League of Legends",
+      "descricao": "Um jogo de estratégia em tempo real onde equipes de campeões competem para destruir a base inimiga.",
+      "plataformas": ["PC"],
+      "link": "https://www.leagueoflegends.com/"
+    },
+    {
+      "nome": "Apex Legends",
+      "descricao": "Um jogo de batalha real onde equipes de três lutam para ser a última equipe sobrevivente.",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "link": "https://www.ea.com/games/apex-legends"
+    },
+    {
+      "nome": "Valorant",
+      "descricao": "Um FPS tático 5v5 onde agentes com habilidades únicas lutam para completar objetivos.",
+      "plataformas": ["PC"],
+      "link": "https://playvalorant.com/"
+    },
+    {
+      "nome": "Among Us",
+      "descricao": "Um jogo multiplayer onde jogadores devem completar tarefas enquanto descobrem impostores entre eles.",
+      "plataformas": ["PC", "Nintendo Switch", "Mobile"],
+      "link": "https://www.innersloth.com/gameAmongUs.php"
+    },
+    {
+      "nome": "Sekiro: Shadows Die Twice",
+      "descricao": "Um jogo de ação e aventura onde você assume o papel de um samurai em busca de resgatar seu mestre.",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One"],
+      "link": "https://sekiro.com/"
+    },
+    {
+      "nome": "Monster Hunter: World",
+      "descricao": "Um RPG de ação onde você caça monstros em um mundo vibrante e cheio de vida.",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One"],
+      "link": "https://www.monsterhunter.com/world/"
+    },
+    {
+      "nome": "Death Stranding",
+      "descricao": "Um jogo de ação e aventura onde você deve conectar cidades em um mundo pós-apocalíptico.",
+      "plataformas": ["PC", "PlayStation 4"],
+      "link": "https://www.playstation.com/en-us/games/death-stranding/"
+    },
+    {
+      "nome": "Genshin Impact",
+      "descricao": "Um RPG de ação em mundo aberto com um sistema de combate baseado em elementos.",
+      "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Mobile"],
+      "link": "https://genshin.mihoyo.com/"
+    },
+    {
+      "nome": "Stardew Valley",
+      "descricao": "Um jogo de simulação de fazenda onde você pode cultivar, pescar e construir relacionamentos.",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "Mobile"],
+      "link": "https://www.stardewvalley.net/"
+    },
+    {
+      "nome": "Celeste",
+      "descricao": "Um jogo de plataforma desafiador onde você ajuda Madeline a escalar uma montanha.",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "link": "https://title.secrethitler.com/"
+    },
+    {
+      "nome": "The Last of Us Part II",
+      "descricao": "Um jogo de ação e aventura que segue Ellie em uma jornada de vingança em um mundo pós-apocalíptico.",
+      "plataformas": ["PlayStation 4"],
+      "link": "https://www.naughtydog.com/thelastofuspartii/"
+    },
+    {
+      "nome": "Ghostrunner",
+      "descricao": "Um jogo de ação em primeira pessoa onde você é um ninja em um mundo cyberpunk.",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "link": "https://ghostrunnergame.com/"
+    },
+    {
+      "nome": "Fall Guys: Ultimate Knockout",
+      "descricao": "Um jogo multiplayer onde você compete em uma série de desafios e minijogos.",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "link": "https://fallguys.com/"
+    },
+    {
+      "nome": "Dying Light 2 Stay Human",
+      "descricao": "Um jogo de ação e sobrevivência em mundo aberto ambientado em um mundo pós-apocalíptico cheio de zumbis.",
+      "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+      "link": "https://dyinglight2.com/"
+    },
+    {
+        "nome": "Persona 5 Royal",
+        "descricao": "Um RPG que segue um grupo de estudantes que se tornam ladrões fantasma para mudar o coração das pessoas.",
+        "plataformas": ["PlayStation 4", "PlayStation 5"],
+        "link": "https://atlus.com/persona5r/"
+    },
+    {
+        "nome": "Monster Hunter Rise",
+        "descricao": "Um RPG de ação onde você caça monstros em um mundo vibrante e cheio de vida.",
+        "plataformas": ["PC", "Nintendo Switch"],
+        "link": "https://www.monsterhunter.com/rise/"
+    },
+    {
+        "nome": "Ghost of Tsushima: Director's Cut",
+        "descricao": "Uma versão expandida do jogo original, com novas missões e uma nova ilha para explorar.",
+        "plataformas": ["PlayStation 4", "PlayStation 5"],
+        "link": "https://www.suckerpunch.com/category/games/ghost-of-tsushima/"
+    },
+    {
+        "nome": "Returnal",
+        "descricao": "Um jogo de ação e tiro em terceira pessoa com elementos roguelike, ambientado em um planeta alienígena.",
+        "plataformas": ["PlayStation 5"],
+        "link": "https://returnal.playstation.com/"
+    },
+    {
+        "nome": "Ratchet & Clank: Rift Apart",
+        "descricao": "Um jogo de ação e aventura que utiliza a tecnologia de carregamento rápido do PS5 para viagens entre dimensões.",
+        "plataformas": ["PlayStation 5"],
+        "link": "https://www.playstation.com/en-us/games/ratchet-and-clank-rift-apart/"
+    },
+    {
+        "nome": "Final Fantasy XVI",
+        "descricao": "Um RPG de ação que se passa em um mundo de fantasia, com uma narrativa rica e combates dinâmicos.",
+        "plataformas": ["PlayStation 5"],
+        "link": "https://ff16.square-enix-games.com/"
+    },
+    {
+        "nome": "Tales of Arise",
+        "descricao": "Um RPG de ação que segue a história de dois protagonistas de mundos opostos em busca de liberdade.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+        "link": "https://talesofarise.talesofgame.com/"
+    },
+    {
+        "nome": "Hitman 3",
+        "descricao": "Um jogo de stealth onde você assume o papel do Agente 47 em sua missão final.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Stadia"],
+        "link": "https://hitman.com/"
+    },
+    {
+        "nome": "The Medium",
+        "descricao": "Um jogo de terror psicológico que permite alternar entre dois mundos simultaneamente.",
+        "plataformas": ["PC", "Xbox Series X/S"],
+        "link": "https://themediumgame.com/"
+    },
+    {
+        "nome": "It Takes Two",
+        "descricao": "Um jogo cooperativo onde dois jogadores controlam um casal em uma aventura mágica.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+        "link": "https://www.ea.com/games/it-takes-two"
+    },
+    {
+        "nome": "Cuphead",
+        "descricao": "Um jogo de plataforma e tiro com um estilo de animação vintage, desafiando os jogadores em batalhas contra chefes.",
+        "plataformas": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+        "link": "https://cupheadgame.com/"
+    },
+    {
+        "nome": "Ori and the Will of the Wisps",
+        "descricao": "Um jogo de plataforma e aventura com uma narrativa emocionante e visuais deslumbrantes.",
+        "plataformas": ["PC", "Xbox One", "Nintendo Switch"],
+        "link": "https://www.orithegame.com/"
+    },
+    {
+        "nome": "Nioh 2",
+        "descricao": "Um RPG de ação ambientado no Japão feudal, onde você enfrenta demônios e monstros.",
+        "plataformas": ["PC", "PlayStation 4"],
+        "link": "https://nioh2.com/"
+    },
+    {
+        "nome": "Watch Dogs: Legion",
+        "descricao": "Um jogo de ação e aventura onde você pode recrutar qualquer NPC para lutar contra um regime opressor.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+        "link": "https://watchdogs.ubisoft.com/legion/"
+    },
+    {
+        "nome": "Far Cry 6",
+        "descricao": "Um jogo de ação em mundo aberto ambientado em uma ilha fictícia, onde você luta contra um regime tirânico.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+        "link": "https://farcry.ubisoft.com/games/far-cry-6/"
+    },
+    {
+        "nome": "Battlefield 2042",
+        "descricao": "Um jogo de tiro em primeira pessoa que traz batalhas em larga escala em um futuro próximo.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+        "link": "https://www.ea.com/games/battlefield/battlefield-2042"
+    },
+    {
+        "nome": "NBA 2K22",
+        "descricao": "Um simulador de basquete que oferece uma experiência realista e modos de jogo variados.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+        "link": "https://nba.2k.com/2k22/"
+    },
+    {
+        "nome": "FIFA 22",
+        "descricao": "Um simulador de futebol que traz novas mecânicas e modos de jogo para os fãs da série.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+        "link": "https://www.ea.com/games/fifa/fifa-22"
+    },
+    {
+        "nome": "Sackboy: A Big Adventure",
+        "descricao": "Um jogo de plataforma 3D onde você controla Sackboy em uma aventura cheia de desafios.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5"],
+        "link": "https://www.playstation.com/en-us/games/sackboy-a-big-adventure/"
+    },
+    {
+        "nome": "The Outer Worlds",
+        "descricao": "Um RPG de ação em primeira pessoa ambientado em uma colônia espacial com escolhas impactantes.",
+        "plataformas": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+        "link": "https://www.theouterworlds.com/"
+    },
+    {
+        "nome": "Stray",
+        "descricao": "Um jogo de aventura em terceira pessoa onde você controla um gato em uma cidade futurista habitada por robôs.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5"],
+        "link": "https://straygame.com/"
+    },
+    {
+        "nome": "God of War Ragnarök",
+        "descricao": "Um jogo de ação e aventura que continua a saga de Kratos e Atreus em um mundo baseado na mitologia nórdica.",
+        "plataformas": ["PlayStation 4", "PlayStation 5"],
+        "link": "https://www.playstation.com/en-us/games/god-of-war-ragnarok/"
+    },
+    {
+        "nome": "Sifu",
+        "descricao": "Um jogo de ação e combate onde você busca vingança enquanto enfrenta inimigos em uma jornada de autodescoberta.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Nintendo Switch"],
+        "link": "https://sifugame.com/"
+    },
+    {
+        "nome": "Tunic",
+        "descricao": "Um jogo de ação e aventura onde você controla uma pequena raposa em um mundo cheio de mistérios e segredos.",
+        "plataformas": ["PC", "Xbox One", "Nintendo Switch"],
+        "link": "https://tunicgame.com/"
+    },
+    {
+        "nome": "Demon's Souls (Remake)",
+        "descricao": "Um remake do clássico RPG de ação que introduziu o gênero souls, com gráficos e jogabilidade modernizados.",
+        "plataformas": ["PlayStation 5"],
+        "link": "https://www.playstation.com/en-us/games/demons-souls/"
+    },
+    {
+        "nome": "Monster Hunter Stories 2: Wings of Ruin",
+        "descricao": "Um RPG baseado em turnos que expande o universo de Monster Hunter com uma nova narrativa e personagens.",
+        "plataformas": ["PC", "Nintendo Switch"],
+        "link": "https://www.monsterhunter.com/stories2/"
+    },
+    {
+        "nome": "Psychonauts 2",
+        "descricao": "Um jogo de plataforma e aventura que segue Razputin, um jovem psiconauta, em sua jornada para salvar o mundo.",
+        "plataformas": ["PC", "PlayStation 4", "Xbox One"],
+        "link": "https://www.psychonauts.com/"
+    },
+    {
+        "nome": "Chicory: A Colorful Tale",
+        "descricao": "Um jogo de aventura onde você usa um pincel mágico para colorir um mundo em preto e branco.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5"],
+        "link": "https://chicorygame.com/"
+    },
+    {
+        "nome": "A Plague Tale: Requiem",
+        "descricao": "Uma sequência de A Plague Tale: Innocence, onde você continua a jornada de Amicia e Hugo em um mundo devastado.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://aplaguetale.com/"
+    },
+    {
+        "nome": "Starfield",
+        "descricao": "Um RPG de ficção científica em mundo aberto, onde você explora o espaço e descobre novos planetas.",
+        "plataformas": ["PC", "Xbox Series X/S"],
+        "link": "https://bethesda.net/en/game/starfield"
+    },
+    {
+        "nome": "The Callisto Protocol",
+        "descricao": "Um jogo de terror e sobrevivência ambientado em uma prisão espacial, onde você enfrenta horrores alienígenas.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+        "link": "https://thecallistoprotocol.com/"
+    },
+    {
+        "nome": "Forspoken",
+        "descricao": "Um RPG de ação que segue Frey, uma jovem que é transportada para um mundo mágico e deve lutar pela sobrevivência.",
+        "plataformas": ["PC", "PlayStation 5"],
+        "link": "https://www.forspoken.com/"
+    },
+    {
+        "nome": "Bayonetta 3",
+        "descricao": "Um jogo de ação e hack-and-slash onde você controla a bruxa Bayonetta em uma nova aventura cheia de ação.",
+        "plataformas": ["Nintendo Switch"],
+        "link": "https://bayonetta.com/"
+    },
+    {
+        "nome": "Eiyuden Chronicle: Hundred Heroes",
+        "descricao": "Um RPG inspirado em clássicos, com uma rica narrativa e um vasto elenco de personagens jogáveis.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S", "Nintendo Switch"],
+        "link": "https://eiyudenchronicle.com/"
+    },
+    {
+        "nome": "Sonic Frontiers",
+        "descricao": "Um jogo de plataforma em mundo aberto onde Sonic explora novas ilhas e enfrenta inimigos em um novo estilo de jogo.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "link": "https://www.sonicthehedgehog.com/"
+    },
+    {
+        "nome": "The Last Ronin",
+        "descricao": "Um jogo de ação baseado na famosa série de quadrinhos, onde você controla um dos Tartarugas Ninja em uma nova narrativa.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://www.lastronin.com/"
+    },
+    {
+        "nome": "Fable",
+        "descricao": "Um reboot da clássica série de RPG, prometendo um mundo mágico e escolhas impactantes.",
+        "plataformas": ["PC", "Xbox Series X/S"],
+        "link": "https://www.xbox.com/en-us/games/fable"
+    },
+    {
+        "nome": "Avowed",
+        "descricao": "Um RPG em primeira pessoa ambientado no universo de Eora, conhecido por Pillars of Eternity.",
+        "plataformas": ["PC", "Xbox Series X/S"],
+        "link": "https://www.obsidian.net/games/avowed"
+    },
+    {
+        "nome": "Alan Wake 2",
+        "descricao": "Um jogo de terror psicológico que continua a história de Alan Wake, misturando ação e narrativa envolvente.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://www.alanwake.com/"
+    },
+    {
+        "nome": "Lies of P",
+        "descricao": "Um RPG de ação inspirado na história de Pinóquio, ambientado em um mundo sombrio e distorcido.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://www.liesofp.com/"
+    },
+    {
+        "nome": "Armored Core VI: Fires of Rubicon",
+        "descricao": "Um jogo de combate de mechas que traz de volta a série Armored Core com novas mecânicas e gráficos atualizados.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+        "link": "https://www.fromsoftware.jp/armoredcore/"
+    },
+    {
+        "nome": "Star Wars Jedi: Survivor",
+        "descricao": "A sequência de Jedi: Fallen Order, onde você continua a jornada de Cal Kestis em um universo de Star Wars.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://www.ea.com/games/starwars/jedi/jedi-survivor"
+    },
+    {
+        "nome": "The Expanse: A Telltale Series",
+        "descricao": "Um jogo de narrativa interativa baseado na popular série de ficção científica, onde suas escolhas moldam a história.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+        "link": "https://telltale.com/expanse/"
+    },
+    {
+        "nome": "The Wolf Among Us 2",
+        "descricao": "A sequência do aclamado jogo de narrativa, onde você retorna ao mundo dos contos de fadas em um novo mistério.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+        "link": "https://telltale.com/wolf-among-us-2/"
+    },
+    {
+        "nome": "Redfall",
+        "descricao": "Um jogo de tiro em primeira pessoa cooperativo, onde você enfrenta vampiros em uma cidade isolada.",
+        "plataformas": ["PC", "Xbox Series X/S"],
+        "link": "https://www.redfall.com/"
+    },
+    {
+        "nome": "The Day Before",
+        "descricao": "Um MMO de sobrevivência em mundo aberto ambientado em um mundo pós-apocalíptico cheio de zumbis.",
+        "plataformas": ["PC"],
+        "link": "https://thedaybefore.com/"
+    },
+    {
+        "nome": "Warhammer 40,000: Space Marine 2",
+        "descricao": "A sequência do aclamado jogo de ação, onde você assume o papel de um Space Marine em batalhas épicas.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://www.focus-entmt.com/en/games/space-marine-2/"
+    },
+    {
+        "nome": "Frostpunk 2",
+        "descricao": "A sequência do jogo de estratégia e sobrevivência, onde você deve construir e gerenciar uma cidade em um mundo congelado.",
+        "plataformas": ["PC"],
+        "link": "https://frostpunk.com/"
+    },
+    {
+        "nome": "Baldur's Gate 3",
+        "descricao": "Um RPG baseado em turnos que se passa no universo de Dungeons & Dragons, com uma narrativa rica e escolhas impactantes.",
+        "plataformas": ["PC", "PlayStation 5"],
+        "link": "https://baldursgate3.larian.com/"
+    },
+    {
+        "nome": "Dead Space (Remake)",
+        "descricao": "Um remake do clássico jogo de terror e sobrevivência, onde você enfrenta horrores em uma estação espacial.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://www.ea.com/games/dead-space/dead-space"
+    },
+    {
+        "nome": "Hogwarts Legacy",
+        "descricao": "Um RPG de ação ambientado no universo de Harry Potter, onde você pode explorar Hogwarts e suas redondezas.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "link": "https://www.hogwartslegacy.com/"
+    },
+    {
+        "nome": "The Suicide Squad: Kill the Justice League",
+        "descricao": "Um jogo de ação e aventura onde você controla a Suicide Squad em uma missão para derrotar a Liga da Justiça.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://www.suicidesquadgame.com/"
+    },
+    {
+        "nome": "Armored Core VI: Fires of Rubicon",
+        "descricao": "Um jogo de combate de mechas que traz de volta a série Armored Core com novas mecânicas e gráficos atualizados.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+        "link": "https://www.fromsoftware.jp/armoredcore/"
+    },
+    {
+        "nome": "Lies of P",
+        "descricao": "Um RPG de ação inspirado na história de Pinóquio, ambientado em um mundo sombrio e distorcido.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://www.liesofp.com/"
+    },
+    {
+        "nome": "The Last Faith",
+        "descricao": "Um jogo de ação e plataforma em 2D com elementos de metroidvania, ambientado em um mundo gótico.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "link": "https://thelastfaith.com/"
+    },
+    {
+        "nome": "Remnant II",
+        "descricao": "A sequência do jogo de tiro em terceira pessoa, combinando elementos de RPG e ação em um mundo pós-apocalíptico.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://www.remnantgame.com/"
+    },
+    {
+        "nome": "Sonic Superstars",
+        "descricao": "Um novo jogo de plataforma 2D com Sonic e seus amigos, trazendo uma nova aventura cheia de ação.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+        "link": "https://www.sonicthehedgehog.com/"
+    },
+    {
+        "nome": "Dragon Age: Dreadwolf",
+        "descricao": "A próxima entrada na série Dragon Age, prometendo uma nova narrativa rica e personagens memoráveis.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://www.ea.com/games/dragon-age/dragon-age-dreadwolf"
+    },
+    {
+        "nome": "Avowed",
+        "descricao": "Um RPG em primeira pessoa ambientado no universo de Eora, conhecido por Pillars of Eternity, com foco em magia e combate.",
+        "plataformas": ["PC", "Xbox Series X/S"],
+        "link": "https://www.obsidian.net/games/avowed"
+    },
+    {
+        "nome": "Fable",
+        "descricao": "Um reboot da clássica série de RPG, prometendo um mundo mágico e escolhas impactantes que moldam a narrativa.",
+        "plataformas": ["PC", "Xbox Series X/S"],
+        "link": "https://www.xbox.com/en-us/games/fable"
+    },
+    {
+        "nome": "Project 007",
+        "descricao": "Um jogo de ação e espionagem baseado no icônico personagem James Bond, com uma nova narrativa original.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://www.iointeractive.com/games/project-007"
+    },
+    {
+        "nome": "Hollow Knight: Silksong",
+        "descricao": "A sequência do aclamado Hollow Knight, onde você joga como Hornet em uma nova aventura cheia de desafios.",
+        "plataformas": ["PC", "Nintendo Switch"],
+        "link": "https://hollowknight.com/"
+    },
+    {
+        "nome": "The Outlast Trials",
+        "descricao": "Um jogo de terror multiplayer onde você e seus amigos enfrentam horrores em experimentos de uma corporação sinistra.",
+        "plataformas": ["PC"],
+        "link": "https://outlasttrial.com/"
+    },
+    {
+        "nome": "Warhammer 40,000: Darktide",
+        "descricao": "Um jogo de ação cooperativa em primeira pessoa ambientado no universo de Warhammer 40K, focado em combate intenso.",
+        "plataformas": ["PC", "Xbox Series X/S"],
+        "link": "https://www.warhammer40k.com/darktide"
+    },
+    {
+        "nome": "The Texas Chain Saw Massacre",
+        "descricao": "Um jogo de terror multiplayer baseado no clássico filme, onde jogadores tentam escapar de Leatherface e sua família.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+        "link": "https://www.texaschainsawgame.com/"
+    },
+    {
+        "nome": "Ghostbusters: Spirits Unleashed",
+        "descricao": "Um jogo multiplayer onde você pode ser um Caça-Fantasmas ou um fantasma, em uma batalha de estratégia e ação.",
+        "plataformas": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+        "link": "https://www.ghostbusters.com/spiritunleashed"
+    },
+    {
+        "nome": "Dune: Awakening",
+        "descricao": "Um MMO de sobrevivência em mundo aberto ambientado no universo de Duna, onde você deve explorar e lutar por recursos.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://dunegame.com/"
+    },
+    {
+        "nome": "The Lords of the Fallen",
+        "descricao": "Um RPG de ação que se passa em um mundo sombrio, onde você deve enfrentar inimigos poderosos e explorar reinos interconectados.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://www.thelordsofthefallen.com/"
+    },
+    {
+        "nome": "Star Wars: Hunters",
+        "descricao": "Um jogo de combate multiplayer ambientado no universo de Star Wars, onde você controla caçadores em arenas emocionantes.",
+        "plataformas": ["Nintendo Switch", "Mobile"],
+        "link": "https://www.starwarshunters.com/"
+    },
+    {
+        "nome": "The Invincible",
+        "descricao": "Um jogo de ficção científica em primeira pessoa baseado na obra de Stanisław Lem, onde você explora um planeta alienígena.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://theinvinciblegame.com/"
+    },
+    {
+        "nome": "Lords of the Fallen 2",
+        "descricao": "A sequência do RPG de ação, prometendo um mundo mais expansivo e um sistema de combate aprimorado.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://www.thelordsofthefallen.com/"
+    },
+    {
+        "nome": "Frostpunk 2",
+        "descricao": "A sequência do jogo de estratégia e sobrevivência, onde você deve construir e gerenciar uma cidade em um mundo congelado.",
+        "plataformas": ["PC"],
+        "link": "https://frostpunk.com/"
+    },
+    {
+        "nome": "The Last of Us Multiplayer",
+        "descricao": "Um jogo multiplayer ambientado no universo de The Last of Us, focando em combate e sobrevivência em equipe.",
+        "plataformas": ["PC", "PlayStation 5"],
+        "link": "https://www.naughtydog.com/"
+    },
+    {
+        "nome": "Project 007",
+        "descricao": "Um jogo de ação e espionagem baseado no icônico personagem James Bond, com uma nova narrativa original.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://www.iointeractive.com/games/project-007"
+    },
+    {
+        "nome": "Hades II",
+        "descricao": "A sequência do aclamado roguelike Hades, continuando a história com novos personagens e desafios.",
+        "plataformas": ["PC"],
+        "link": "https://www.supergiantgames.com/games/hades-ii/"
+    },
+    {
+        "nome": "Metal Gear Solid Delta: Snake Eater",
+        "descricao": "Um remake do clássico Metal Gear Solid 3, trazendo novos gráficos e mecânicas de jogo.",
+        "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+        "link": "https://www.konami.com/games/mgsdelta/"
+    },
+    {
+        "nome": "Silent Hill f",
+        "descricao": "Um novo título na famosa série de terror, prometendo uma nova narrativa e ambientação aterrorizante.",
+        "plataformas": ["PC", "PlayStation 5"],
+        "link": "https://www.konami.com/games/silenthill/"
+    },
+    {
+        "nome": "Dragon Quest XII: The Flames of Fate",
+        "descricao": "Um novo capítulo na famosa série de RPG, prometendo uma narrativa envolvente e combate dinâmico.",
+        "plataformas": ["PC", "PlayStation 5", "Nintendo Switch"],
+        "link": "https://dragonquest.square-enix-games.com/"
+    }]
+
