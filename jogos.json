@@ -646,5 +646,12 @@
         "descricao": "Um novo capítulo na famosa série de RPG, prometendo uma narrativa envolvente e combate dinâmico.",
         "plataformas": ["PC", "PlayStation 5", "Nintendo Switch"],
         "link": "https://dragonquest.square-enix-games.com/"
-    }]
+    },
+    {
+        "nome": "CrossCode",
+        "descricao": "CrossCode combina gráficos estilo SNES de 16 bits com física suave, um sistema de combate em ritmo acelerado e uma mecânica de quebra-cabeça envolvente, acompanhada de uma emocionante história de ficção científica.",
+        "plataformas": ["PC", "PlayStation 5", "Nintendo Switch"],
+        "link": "https://store.steampowered.com/app/368340/CrossCode/"
+    }
+]
 
